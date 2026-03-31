@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "PRIME SMP MANAGER",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PRIMESMP__2026.aternos.me",
+    "port": 34771,
     "version": "",
     "try-creative": false
   },
