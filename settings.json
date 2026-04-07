@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "PRIME BOT",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "PRIME BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "primesmpelite.aternos.me",
+    "port": 29537,
     "version": "",
     "try-creative": false
   },
